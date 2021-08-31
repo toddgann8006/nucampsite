@@ -41,4 +41,10 @@ padding: 20px 0;
 
     html{ scroll-behavior: smooth; }
 
-  
+    .carousel-caption {
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+    
+    .carousel {
+        border: solid #5637DD;
+    }
